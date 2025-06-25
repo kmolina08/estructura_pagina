@@ -1,0 +1,36 @@
+body{
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: rgb(132, 180, 235);
+    color:rgb(0, 0, 0) 
+}
+
+header{
+    background-color: rgba(18, 204, 211, 0.541);
+}
+section{
+    background-color: rgb(100, 138, 221);
+    text-align: center;
+}
+nav ul{
+    justify-content: center;
+   text-align: center;
+   list-style: none;
+   display: flex;
+   padding:0%
+}
+h1 {
+    text-align: center; 
+
+    color:rgb(61, 13, 235)
+}
+h2{
+    color:rgb(6, 68, 104)
+}
+h3{
+    text-decoration:underline;
+}
+  
+img{
+    border-radius: 10px;
+    display: block;
+}
